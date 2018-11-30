@@ -18,7 +18,7 @@ The [course](https://www.fer.unizg.hr/predmet/puh) is following a book [Learn Yo
   - [ ] [Lecture 12]()
   
 #### 2. Homeworks and exercises
-  | Homeworks                   | Exercises.                |
+  | Homeworks                  | Exercises                  |
   |:--------------------------:|:--------------------------:|
   | <ul><li>[ ] [Homework 1]() | <ul><li>[ ] [Exercise 1]() |
   | <ul><li>[ ] [Homework 2]() | <ul><li>[ ] [Exercise 2]() |
