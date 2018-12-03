@@ -6,7 +6,7 @@ The [course](https://www.fer.unizg.hr/predmet/puh) is following a book [Learn Yo
 #### 1. Lectures
   - [x] [Lecture 1](https://github.com/lukanovak93/fer-haskell/blob/master/Lectures/puh-2017-lecture-01.lhs.txt)
   - [x] [Lecture 2](https://github.com/lukanovak93/fer-haskell/blob/master/Lectures/puh-2017-lecture-02.lhs.txt)
-  - [ ] [Lecture 3]()
+  - [3] [Lecture 3](https://github.com/lukanovak93/fer-haskell/blob/master/Lectures/puh-2017-lecture-03.lhs.txt)
   - [ ] [Lecture 4]()
   - [ ] [Lecture 5]()
   - [ ] [Lecture 6]()
@@ -20,7 +20,7 @@ The [course](https://www.fer.unizg.hr/predmet/puh) is following a book [Learn Yo
 #### 2. Homeworks and exercises
   | Homeworks                  | Exercises                  |
   |:--------------------------:|:--------------------------:|
-  | <ul><li>[ ] [Homework 1]() | <ul><li>[ ] [Exercise 1]() |
+  | <ul><li>[ ] [Homework 1]() | <ul><li>[x] [Exercise 1]() |
   | <ul><li>[ ] [Homework 2]() | <ul><li>[ ] [Exercise 2]() |
   | <ul><li>[ ] [Homework 3]() | <ul><li>[ ] [Exercise 3]() |
   | <ul><li>[ ] [Homework 4]() | <ul><li>[ ] [Exercise 4]() |
